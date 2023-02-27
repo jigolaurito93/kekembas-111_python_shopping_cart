@@ -1,6 +1,6 @@
 # kekembas-111_python_shopping_cart
 
-Associate Instructor Brendan Carlson helped me with a certain code that I was stuck on.
+Coding Temple Associate Instructor Brendan Carlson helped me with a certain code that I was stuck on.
 
 References:
 
